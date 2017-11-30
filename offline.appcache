@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1503439931
+#1512065108
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -80,6 +80,11 @@ images/explosao2.png
 images/portalazul-sheet0.png
 images/portalazul-sheet1.png
 images/portalazul-sheet2.png
+images/tilemap.png
+images/sprite54-sheet0.png
+images/sprite55-sheet0.png
+images/sprite56-sheet0.png
+images/sprite57-sheet0.png
 media/track01.ogg
 media/super%20mario%20bros%20%20%20sons%20classicos%20%20%20adquirindo%20moeda.ogg
 media/explosão%20de%20bomba%201%20-%20efeito%20sonoro%20-%20sfx%2006.ogg
@@ -89,13 +94,13 @@ media/efeito%20sonoro%20%20%20gosma%20galatica.m4a
 media/efeito%20sonoro%20%20%20gosma%20galatica.ogg
 media/untitled.m4a
 media/untitled.ogg
-media/131-lavender-town-s-theme%20(1).m4a
-media/131-lavender-town-s-theme%20(1).ogg
+media/musica2.ogg
 icon-16.png
 icon-32.png
 icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
+video.mp4
 NETWORK:
 *

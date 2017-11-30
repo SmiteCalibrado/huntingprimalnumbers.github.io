@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503439931,
+	"version": 1512065108,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -81,6 +81,11 @@
 		"images/portalazul-sheet0.png",
 		"images/portalazul-sheet1.png",
 		"images/portalazul-sheet2.png",
+		"images/tilemap.png",
+		"images/sprite54-sheet0.png",
+		"images/sprite55-sheet0.png",
+		"images/sprite56-sheet0.png",
+		"images/sprite57-sheet0.png",
 		"media/track01.ogg",
 		"media/super mario bros   sons classicos   adquirindo moeda.ogg",
 		"media/explosão de bomba 1 - efeito sonoro - sfx 06.ogg",
@@ -90,13 +95,13 @@
 		"media/efeito sonoro   gosma galatica.ogg",
 		"media/untitled.m4a",
 		"media/untitled.ogg",
-		"media/131-lavender-town-s-theme (1).m4a",
-		"media/131-lavender-town-s-theme (1).ogg",
+		"media/musica2.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"video.mp4"
 	]
 }
