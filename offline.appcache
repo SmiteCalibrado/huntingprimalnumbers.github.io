@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1526002151
+#1526095890
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -26,16 +26,11 @@ images/btn_quadra-sheet1.png
 images/btn_quadra-sheet2.png
 images/menu_quadra-sheet0.png
 images/btn_voltar-sheet0.png
-images/btn_voltar-sheet1.png
 images/cenarioloja-sheet0.png
 images/cenarioloja2-sheet0.png
 images/papel_loja-sheet0.png
 images/detalheloja-sheet0.png
 images/iconloja-sheet0.png
-images/seta_cima-sheet0.png
-images/seta_cima-sheet1.png
-images/seta_baixo-sheet0.png
-images/seta_baixo-sheet1.png
 images/tubo_felicidade-sheet0.png
 images/limite_f-sheet0.png
 images/felicidade-sheet0.png
@@ -43,6 +38,18 @@ images/anima_bola-sheet0.png
 images/anima_bola-sheet1.png
 images/anima_bola-sheet2.png
 images/anima_bola-sheet3.png
+images/iconloja2-sheet0.png
+images/iconloja3-sheet0.png
+images/icon_loja-sheet0.png
+images/icon_loja-sheet1.png
+images/icon_prov-sheet0.png
+images/icon_prov-sheet1.png
+images/icon_api-sheet0.png
+images/icon_api-sheet1.png
+images/icon_fish-sheet0.png
+images/icon_alu-sheet0.png
+images/prox_pagina-sheet0.png
+images/volt_pag-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
