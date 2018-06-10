@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1526265344,
+	"version": 1528597987,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,13 @@
 		"images/icon_alu-sheet0.png",
 		"images/prox_pagina-sheet0.png",
 		"images/volt_pag-sheet0.png",
+		"images/fundo_inicio-sheet0.png",
+		"images/start-sheet0.png",
+		"images/start2-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/icon_gepan-sheet0.png",
+		"images/icon_gepan-sheet1.png",
+		"images/sprite2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
