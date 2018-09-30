@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1538008530,
+	"version": 1538304305,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,10 @@
 		"images/spawnzombie2-sheet0.png",
 		"images/sprite5-sheet0.png",
 		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite7-sheet1.png",
+		"images/sprite7-sheet2.png",
+		"images/spawnzombie3-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
