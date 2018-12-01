@@ -1,7 +1,7 @@
 "use strict";
 
 const OFFLINE_DATA_FILE = "offline.js";
-const CACHE_NAME_PREFIX = "c2offline";
+const CACHE_NAME_PREFIX = "c3offline";
 const BROADCASTCHANNEL_NAME = "offline";
 const CONSOLE_PREFIX = "[SW] ";
 const LAZYLOAD_KEYNAME = "";
@@ -85,14 +85,14 @@ function ReadLazyLoadListFromStorage()
 function GetCacheBaseName()
 {
 	// Include the scope to avoid name collisions with any other SWs on the same origin.
-	// e.g. "c2offline-https://example.com/foo/" (won't collide with anything under bar/)
+	// e.g. "c3offline-https://example.com/foo/" (won't collide with anything under bar/)
 	return CACHE_NAME_PREFIX + "-" + self.registration.scope;
 };
 
 function GetCacheVersionName(version)
 {
 	// Append the version number to the cache name.
-	// e.g. "c2offline-https://example.com/foo/-v2"
+	// e.g. "c3offline-https://example.com/foo/-v2"
 	return GetCacheBaseName() + "-v" + version;
 };
 

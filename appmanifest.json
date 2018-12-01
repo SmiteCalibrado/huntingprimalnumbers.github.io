@@ -1,28 +1,36 @@
-﻿{
-	"name": "New project",
-	"short_name": "New project",
+{
+	"name": "O Novo Diretor",
+	"short_name": "O Novo Diretor",
+	"description": "Agora você é o novo diretor de uma escola e precisa gerencia-la para fazer isso você precisa conseguir notas e dinheiro de seus alunos mas cuidado eles não podem ficar muito tristes, caso isso acontece você perdera tudo",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
-	"icons": [{
-		"src": "icon-16.png",
-		"sizes": "16x16",
-		"type": "image/png"
-	}, {
-		"src": "icon-32.png",
-		"sizes": "32x32",
-		"type": "image/png"
-	}, {
-		"src": "icon-128.png",
-		"sizes": "128x128",
-		"type": "image/png"
-	}, {
-		"src": "icon-256.png",
-		"sizes": "144x144",
-		"type": "image/png"
-	}, {
-		"src": "icon-256.png",
-		"sizes": "256x256",
-		"type": "image/png"
-	}]
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-114.png",
+			"sizes": "114x114",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	]
 }
