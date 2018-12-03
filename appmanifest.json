@@ -1,7 +1,7 @@
 {
 	"name": "O Novo Diretor",
 	"short_name": "O Novo Diretor",
-	"description": "Agora você é o novo diretor de uma escola e precisa gerencia-la para fazer isso você precisa conseguir notas e dinheiro de seus alunos mas cuidado eles não podem ficar muito tristes, caso isso acontece você perdera tudo",
+	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
